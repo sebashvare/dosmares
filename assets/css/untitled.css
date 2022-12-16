@@ -1,0 +1,20 @@
+#sesion {
+  color: var(--bs-pink);
+}
+
+.btn {
+  font-weight: 700;
+  text-transform: uppercase;
+  border: none;
+  border-radius: 300px;
+  font-family: "aldrich";
+}
+
+h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
+  font-family: "aldrich";
+}
+
+.logo {
+  height: 150px;
+}
+
